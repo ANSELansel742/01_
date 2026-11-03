@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Core: Offline Local AI Agent",
+  "description": "Dog AI: Loyal companion & smart assistant for Android with voice speech, trilingual translation, and full offline local execution.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
